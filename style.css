@@ -197,6 +197,8 @@ video {
 }
 
 .container {
+    position: relative;
+    z-index: 50;
     min-width: 580px;
     min-height: 304px;
     color: black;
